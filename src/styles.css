@@ -1,0 +1,10 @@
+/* Global resets and page background */
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0; /* remove default white margin */
+  background: #0f172a; /* match app background */
+  color-scheme: dark;
+}
