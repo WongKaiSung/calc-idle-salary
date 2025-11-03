@@ -1,7 +1,7 @@
 # Netlify configuration for Angular app
 [build]
   command = "npm run build"
-  publish = "dist/calc-idle-salary"
+  publish = "dist/calc-idle-salary/browser"
 
 [build.environment]
   NODE_VERSION = "20"
