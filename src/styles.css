@@ -1,10 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
 /* Global resets and page background */
-html, body {
+html,
+body {
   height: 100%;
 }
 
 body {
-  margin: 0; /* remove default white margin */
-  background: #0f172a; /* match app background */
+  margin: 0;
+  /* remove default white margin */
+  background: #0f172a;
+  /* match app background */
   color-scheme: dark;
 }

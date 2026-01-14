@@ -3,7 +3,7 @@ import { Component, computed, signal } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  imports: [DecimalPipe, CurrencyPipe],
+  imports: [CurrencyPipe],
   template: `
     <main class="main">
       <div class="container">
